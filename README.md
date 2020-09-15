@@ -3,15 +3,18 @@
 
 #### I like to do things that do things and/or to make things that make things do things do their thing, and so on.
 
-Besides making games, music, go-karts and Youtube videos, I'm currently working on a wiki for something called [Town World][townworld]. Check out the code for the Unity markdown viewer in the pinned repos below!
+Besides making games, music, go-karts and Youtube videos, I'm currently working on a wiki for something called [Town World][townworld]. Check out the code for the Unity markdown viewer, TownWorldWiki, in the pinned repos below!
 
-### Connect with me:
+### Linkies:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="angusmf.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="angusmf | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="coangusmfdeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="angusmf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="angusmf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="angusmf | SoundCloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/soundcloud.svg" />][soundcloud]
+
+<br />
 
 <br />
 
@@ -28,6 +31,7 @@ Did you know this readme is in a *special* [github repo][thisrepo]???
 [townworld]: https://angusmf.com/Town-World
 [twitter]: https://twitter.com/angusmf_yo
 [youtube]: https://www.youtube.com/user/angusmf
-[instagram]: https://www.instagram.com/angusmf/lin
+[instagram]: https://www.instagram.com/angusmf
 [linkedin]: https://www.linkedin.com/in/angus-freeman/
+[soundcloud]: https://soundcloud.com/angus-freeman
 [thisrepo]: https://github.com/angusmf/angusmf
